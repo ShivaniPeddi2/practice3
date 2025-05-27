@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162F36D2-D7DF-47F0-A875-9E69FB52FA42}|HospitalAPI.API\\HospitalAPI.API.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162F36D2-D7DF-47F0-A875-9E69FB52FA42}|HospitalAPI.API\\HospitalAPI.API.csproj|solutionrelative:hospitalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C1DBC-D85D-4E37-BFDE-D999666116E1}|HospitalAPI.Domain\\HospitalAPI.Domain.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C1DBC-D85D-4E37-BFDE-D999666116E1}|HospitalAPI.Domain\\HospitalAPI.Domain.csproj|solutionrelative:hospitalapi.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\commands\\createdoctor\\createdoctorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\commands\\createdoctor\\createdoctorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162F36D2-D7DF-47F0-A875-9E69FB52FA42}|HospitalAPI.API\\HospitalAPI.API.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162F36D2-D7DF-47F0-A875-9E69FB52FA42}|HospitalAPI.API\\HospitalAPI.API.csproj|solutionrelative:hospitalapi.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\queries\\getalldoctors\\getalldoctorsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\queries\\getalldoctors\\getalldoctorsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\queries\\getalldoctors\\getalldoctorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\queries\\getalldoctors\\getalldoctorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCB0106-B2F5-4174-A86D-38ECFF4547AD}|HospitalAPI.Infrastructure\\HospitalAPI.Infrastructure.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.infrastructure\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCB0106-B2F5-4174-A86D-38ECFF4547AD}|HospitalAPI.Infrastructure\\HospitalAPI.Infrastructure.csproj|solutionrelative:hospitalapi.infrastructure\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\commands\\deletedoctor\\deletedoctorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\commands\\deletedoctor\\deletedoctorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\commands\\createdoctor\\createdoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\commands\\createdoctor\\createdoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\commands\\deletedoctor\\deletedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\commands\\deletedoctor\\deletedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\interfaces\\ihospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\interfaces\\ihospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C1DBC-D85D-4E37-BFDE-D999666116E1}|HospitalAPI.Domain\\HospitalAPI.Domain.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C1DBC-D85D-4E37-BFDE-D999666116E1}|HospitalAPI.Domain\\HospitalAPI.Domain.csproj|solutionrelative:hospitalapi.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C1DBC-D85D-4E37-BFDE-D999666116E1}|HospitalAPI.Domain\\HospitalAPI.Domain.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C1DBC-D85D-4E37-BFDE-D999666116E1}|HospitalAPI.Domain\\HospitalAPI.Domain.csproj|solutionrelative:hospitalapi.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\commands\\updatedoctor\\updatedoctorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\commands\\updatedoctor\\updatedoctorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\commands\\updatedoctor\\updatedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\commands\\updatedoctor\\updatedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\common\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\common\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.application\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298CE44B-F089-4C96-9633-24BC7DC4229E}|HospitalAPI.Application\\HospitalAPI.Application.csproj|solutionrelative:hospitalapi.application\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162F36D2-D7DF-47F0-A875-9E69FB52FA42}|HospitalAPI.API\\HospitalAPI.API.csproj|c:\\users\\jnet\\downloads\\hospitalapi\\hospitalapi\\hospitalapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{162F36D2-D7DF-47F0-A875-9E69FB52FA42}|HospitalAPI.API\\HospitalAPI.API.csproj|solutionrelative:hospitalapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateDoctorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\CreateDoctor\\CreateDoctorCommandHandler.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Commands\\CreateDoctor\\CreateDoctorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\CreateDoctor\\CreateDoctorCommandHandler.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Commands\\CreateDoctor\\CreateDoctorCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:16:13.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.API\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.API\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.API\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospitalAPI.API\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:55:07.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllDoctorsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Queries\\GetAllDoctors\\GetAllDoctorsQuery.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Queries\\GetAllDoctors\\GetAllDoctorsQuery.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Queries\\GetAllDoctors\\GetAllDoctorsQuery.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Queries\\GetAllDoctors\\GetAllDoctorsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:16:26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllDoctorsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Queries\\GetAllDoctors\\GetAllDoctorsQueryHandler.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Queries\\GetAllDoctors\\GetAllDoctorsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Queries\\GetAllDoctors\\GetAllDoctorsQueryHandler.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Queries\\GetAllDoctors\\GetAllDoctorsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:16:29.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "HospitalAPI.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:53:26.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.API\\Program.cs",
+              "RelativeToolTip": "HospitalAPI.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:55:31.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Infrastructure\\Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Infrastructure\\Data\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Infrastructure\\Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "HospitalAPI.Infrastructure\\Data\\HospitalDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:53:49.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateDoctorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\CreateDoctor\\CreateDoctorCommand.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Commands\\CreateDoctor\\CreateDoctorCommand.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\CreateDoctor\\CreateDoctorCommand.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Commands\\CreateDoctor\\CreateDoctorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:16:05.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteDoctorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\DeleteDoctor\\DeleteDoctorCommandHandler.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Commands\\DeleteDoctor\\DeleteDoctorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\DeleteDoctor\\DeleteDoctorCommandHandler.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Commands\\DeleteDoctor\\DeleteDoctorCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:16:35.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteDoctorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\DeleteDoctor\\DeleteDoctorCommand.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Commands\\DeleteDoctor\\DeleteDoctorCommand.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\DeleteDoctor\\DeleteDoctorCommand.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Commands\\DeleteDoctor\\DeleteDoctorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:15:51.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\DoctorDto.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\DoctorDto.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\DoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:15:20.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IHospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Interfaces\\IHospitalDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Interfaces\\IHospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Interfaces\\IHospitalDbContext.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Interfaces\\IHospitalDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:54:32.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Domain\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "HospitalAPI.Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:53:31.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "HospitalAPI.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:53:38.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateDoctorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\UpdateDoctor\\UpdateDoctorCommandHandler.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Commands\\UpdateDoctor\\UpdateDoctorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\UpdateDoctor\\UpdateDoctorCommandHandler.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Commands\\UpdateDoctor\\UpdateDoctorCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:05:50.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateDoctorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\UpdateDoctor\\UpdateDoctorCommand.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Commands\\UpdateDoctor\\UpdateDoctorCommand.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Commands\\UpdateDoctor\\UpdateDoctorCommand.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Commands\\UpdateDoctor\\UpdateDoctorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:05:44.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SqlQueries.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\SqlQueries.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\SqlQueries.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\SqlQueries.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\SqlQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:52:50.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Common\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Application\\Common\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.Application\\Common\\AssemblyReference.cs",
+              "RelativeToolTip": "HospitalAPI.Application\\Common\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:33:32.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalAPI.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\jnet\\Downloads\\HospitalAPI\\HospitalAPI\\HospitalAPI.API\\appsettings.json",
+              "RelativeToolTip": "HospitalAPI.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T04:55:22.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

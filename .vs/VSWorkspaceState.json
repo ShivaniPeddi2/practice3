@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HospitalAPI",
+    "\\HospitalAPI\\HospitalAPI.API",
+    "\\HospitalAPI\\HospitalAPI.API\\Controllers",
+    "\\HospitalAPI\\HospitalAPI.Application",
+    "\\HospitalAPI\\HospitalAPI.Application\\Commands",
+    "\\HospitalAPI\\HospitalAPI.Application\\Commands\\DeleteDoctor"
+  ],
+  "SelectedNode": "\\HospitalAPI\\HospitalAPI.API\\Controllers\\DoctorsController.cs",
+  "PreviewInSolutionExplorer": false
+}
